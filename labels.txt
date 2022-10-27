@@ -1,0 +1,5 @@
+0 Sprite
+1 Red-Bull
+2 Coca-Cola
+3 Fanta
+4 Canada Dry
